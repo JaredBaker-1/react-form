@@ -1,4 +1,4 @@
-Multi Step React Form built with Material UI
+Multi step React Form built with Material UI
 
 ## Available Scripts
 
